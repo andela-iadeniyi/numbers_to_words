@@ -1,0 +1,12 @@
+{
+    "name": "ibonly/numbertowords",
+    "description": "A package that converts numbers to its word equivalent e.g 1234 to One thousand two hundred and thirtyfour",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adeniyi Ibraheem",
+            "email": "ibonly@gmail.com"
+        }
+    ],
+    "require": {}
+}
